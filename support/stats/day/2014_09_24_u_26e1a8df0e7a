@@ -1,0 +1,147 @@
+<table cellpadding="0" cellspacing="0" align="center" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right">24.09.2014</td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;2 <!--lang_stats_visitors--></td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15">#</td>
+					<td class="bt_column_header" width="40" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_browser--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				
+<tr>
+    <td>1</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><strong>5</strong></a></td>
+    <td align="center">09:41:44</td>
+    <td align="center">09:42:34</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP>Ankara</td>
+    <td NOWRAP>Chrome 37</td>
+    <td NOWRAP>Windows 8</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Turk Telekomunikasyon Anonim Sirketi','1','1','88.248.xxx.xxx','88.248.160.xxx.static.ttnet.com.tr','a68470b30e',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">09:41:44</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=https://www.google.com.tr/" target="_blank">https://www.google.com.tr/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">09:41:44</td>
+		<td align="center">09:41:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_13">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">09:41:50</td>
+		<td align="center">09:41:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_14">
+		<td>&nbsp;</td>
+		<td align="center">3</td>
+		<td align="center">09:41:54</td>
+		<td align="center">09:42:13</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/index.php" target="_blank">http://www.vysigorta.com/index.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_15">
+		<td>&nbsp;</td>
+		<td align="center">4</td>
+		<td align="center">09:42:13</td>
+		<td align="center">09:42:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/photo.php" target="_blank">http://www.vysigorta.com/photo.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_16">
+		<td>&nbsp;</td>
+		<td align="center">5</td>
+		<td align="center">09:42:34</td>
+		<td align="center">09:42:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/about.php" target="_blank">http://www.vysigorta.com/about.php</a></td>
+	</tr>
+
+<tr>
+    <td>2</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><strong>4</strong></a></td>
+    <td align="center">13:00:43</td>
+    <td align="center">13:03:11</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP>Ankara</td>
+    <td NOWRAP>Chrome 37</td>
+    <td NOWRAP>Windows 8</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Turk Telekomunikasyon Anonim Sirketi','1','1','95.7.xxx.xxx','95.7.2xxx.xxx.dynamic.ttnet.com.tr','8e735d3298',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">13:00:43</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=https://www.google.com.tr/" target="_blank">https://www.google.com.tr/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">13:00:43</td>
+		<td align="center">13:01:04</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_23">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">13:01:04</td>
+		<td align="center">13:01:57</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/photo.php" target="_blank">http://www.vysigorta.com/photo.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_24">
+		<td>&nbsp;</td>
+		<td align="center">3</td>
+		<td align="center">13:01:57</td>
+		<td align="center">13:02:41</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_25">
+		<td>&nbsp;</td>
+		<td align="center">4</td>
+		<td align="center">13:02:41</td>
+		<td align="center">13:03:11</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/index.php" target="_blank">http://www.vysigorta.com/index.php</a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>

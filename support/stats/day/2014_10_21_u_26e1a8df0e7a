@@ -1,0 +1,347 @@
+<table cellpadding="0" cellspacing="0" align="center" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right">21.10.2014</td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;8 <!--lang_stats_visitors--></td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15">#</td>
+					<td class="bt_column_header" width="40" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_browser--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				
+<tr>
+    <td>1</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><strong>1</strong></a></td>
+    <td align="center">05:57:03</td>
+    <td align="center">05:57:03</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Chrome 36</td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','187.126.xxx.xxx','187.126.3.xxx','d36c1d16b7',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">05:57:02</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=http://39429664.semalt.com/crawler.php?u=http://vysigorta.com" target="_blank">http://39429664.semalt.com/crawler.php?u=http://vysigorta.com</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">05:57:02</td>
+		<td align="center">05:57:03</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://vysigorta.com/" target="_blank">http://vysigorta.com/</a></td>
+	</tr>
+
+<tr>
+    <td>2</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><strong>1</strong></a></td>
+    <td align="center">08:52:34</td>
+    <td align="center">08:52:34</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Safari 6</td>
+    <td NOWRAP>iPhone / iOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','176.238.xxx.xxx','176.238.20.xxx','3f0049b670',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">08:52:34</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=https://m.facebook.com" target="_blank">https://m.facebook.com</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">08:52:34</td>
+		<td align="center">08:52:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+<tr>
+    <td>3</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_3');"><strong>1</strong></a></td>
+    <td align="center">12:01:12</td>
+    <td align="center">12:01:12</td>
+    <td NOWRAP>United States</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Internet Explorer 10</td>
+    <td NOWRAP>Windows 8</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','176.195.xxx.xxx','ip-176-195-81-xxx.bb.netbynet.ru','50e822040c',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_31">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">12:01:12</td>
+		<td align="center">12:01:13</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://vysigorta.com/zorunlu-deprem.php" target="_blank">http://vysigorta.com/zorunlu-deprem.php</a></td>
+	</tr>
+
+<tr>
+    <td>4</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_4');"><strong>2</strong></a></td>
+    <td align="center">12:13:38</td>
+    <td align="center">12:18:51</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Internet Explorer 9</td>
+    <td NOWRAP>Windows Vista</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','81.213.xxx.xxx','81.213.144.xxx.static.ttnet.com.tr','5a3a468719',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_41">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">12:13:38</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;frm=1&amp;source=web&amp;cd=2&amp;ved=0CCMQFjAB&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=7SNGVK2CG5CS7AbSjYGgBw&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;bvm=bv.77880786,d.ZGU" target="_blank">http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;frm=1&amp;source=web&amp;cd=2&amp;ved=0CCMQFjAB&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=7SNGVK2CG5CS7AbSjYGgBw&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;bvm=bv.77880786,d.ZGU</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_42">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">12:13:38</td>
+		<td align="center">12:13:51</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_43">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">12:13:51</td>
+		<td align="center">12:18:51</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+<tr>
+    <td>5</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_5');"><strong>3</strong></a></td>
+    <td align="center">14:45:06</td>
+    <td align="center">14:48:07</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP>Bursa</td>
+    <td NOWRAP>Internet Explorer 9</td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Turk Telekom','4','1','88.246.xxx.xxx','88.246.13.xxx.dynamic.ttnet.com.tr','16aa60157e',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_51">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">14:45:06</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;frm=1&amp;source=web&amp;cd=1&amp;sqi=2&amp;ved=0CBsQFjAA&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=cUdGVLO4BubX7AaQl4DYDg&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;sig2=AXfQ5IbJV14ct6gXJfMO4Q&amp;bvm=bv.77880786,d.ZGU" target="_blank">http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;frm=1&amp;source=web&amp;cd=1&amp;sqi=2&amp;ved=0CBsQFjAA&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=cUdGVLO4BubX7AaQl4DYDg&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;sig2=AXfQ5IbJV14ct6gXJfMO4Q&amp;bvm=bv.77880786,d.ZGU</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_52">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">14:45:06</td>
+		<td align="center">14:45:35</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_53">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">14:45:35</td>
+		<td align="center">14:48:06</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_54">
+		<td>&nbsp;</td>
+		<td align="center">3</td>
+		<td align="center">14:48:06</td>
+		<td align="center">14:48:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+<tr>
+    <td>6</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_6');"><strong>1</strong></a></td>
+    <td align="center">14:51:53</td>
+    <td align="center">14:51:53</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Chrome 37</td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','78.178.xxx.xxx','78.178.82.xxx.dynamic.ttnet.com.tr','e2ceb1e58e',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_61">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">14:51:53</td>
+		<td align="center">14:51:53</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://vysigorta.com/" target="_blank">http://vysigorta.com/</a></td>
+	</tr>
+
+<tr>
+    <td>7</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_7');"><strong>10</strong></a></td>
+    <td align="center">15:56:01</td>
+    <td align="center">16:25:31</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Internet Explorer 11</td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.250.xxx.xxx','88.250.253.xxx.dynamic.ttnet.com.tr','55207f3337',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_71">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:56:01</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CDEQFjAA&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=9lBGVNyxAYSd7gaQ0oA4&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;sig2=SMcRtNGxr5iIjeZBucEqoQ&amp;bvm=bv.77880786,d.ZGU" target="_blank">http://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CDEQFjAA&amp;url=http%3A%2F%2Fwww.vysigorta.com%2F&amp;ei=9lBGVNyxAYSd7gaQ0oA4&amp;usg=AFQjCNFig3ECEh_y5gRdrt1G-ZaadCRWIw&amp;sig2=SMcRtNGxr5iIjeZBucEqoQ&amp;bvm=bv.77880786,d.ZGU</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_72">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">15:56:01</td>
+		<td align="center">15:56:17</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_73">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">15:56:17</td>
+		<td align="center">15:56:19</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/saglik-sigortasi.php" target="_blank">http://www.vysigorta.com/saglik-sigortasi.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_74">
+		<td>&nbsp;</td>
+		<td align="center">3</td>
+		<td align="center">15:56:19</td>
+		<td align="center">16:23:57</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/tamamlayici-saglik.php" target="_blank">http://www.vysigorta.com/tamamlayici-saglik.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_75">
+		<td>&nbsp;</td>
+		<td align="center">4</td>
+		<td align="center">16:23:57</td>
+		<td align="center">16:24:08</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/teminat-bilgileri.php" target="_blank">http://www.vysigorta.com/teminat-bilgileri.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_76">
+		<td>&nbsp;</td>
+		<td align="center">5</td>
+		<td align="center">16:24:08</td>
+		<td align="center">16:24:15</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/tamamlayici-saglik.php" target="_blank">http://www.vysigorta.com/tamamlayici-saglik.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_77">
+		<td>&nbsp;</td>
+		<td align="center">6</td>
+		<td align="center">16:24:15</td>
+		<td align="center">16:24:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/photo.php" target="_blank">http://www.vysigorta.com/photo.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_78">
+		<td>&nbsp;</td>
+		<td align="center">7</td>
+		<td align="center">16:24:34</td>
+		<td align="center">16:24:55</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/about.php" target="_blank">http://www.vysigorta.com/about.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_79">
+		<td>&nbsp;</td>
+		<td align="center">8</td>
+		<td align="center">16:24:55</td>
+		<td align="center">16:24:59</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/teminat-bilgileri.php" target="_blank">http://www.vysigorta.com/teminat-bilgileri.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_710">
+		<td>&nbsp;</td>
+		<td align="center">9</td>
+		<td align="center">16:24:59</td>
+		<td align="center">16:25:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_711">
+		<td>&nbsp;</td>
+		<td align="center">10</td>
+		<td align="center">16:25:31</td>
+		<td align="center">16:25:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php#" target="_blank">http://www.vysigorta.com/contact.php#</a></td>
+	</tr>
+
+<tr>
+    <td>8</td>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_8');"><strong>2</strong></a></td>
+    <td align="center">23:37:01</td>
+    <td align="center">23:37:16</td>
+    <td NOWRAP>Turkey</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Chrome 38</td>
+    <td NOWRAP>Windows 8</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','88.227.xxx.xxx','88.227.46.xxx.dynamic.ttnet.com.tr','df41b9c207',this); return true;"></div></td>
+</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_81">
+		<td>&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">23:37:01</td>
+		<td colspan="5">Referrer: <a href="http://dereferrer.livezilla.info/?url=https://www.google.com.tr/" target="_blank">https://www.google.com.tr/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_82">
+		<td>&nbsp;</td>
+		<td align="center">1</td>
+		<td align="center">23:37:01</td>
+		<td align="center">23:37:16</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/" target="_blank">http://www.vysigorta.com/</a></td>
+	</tr>
+
+	<tr style="display:none;" class="bt_values_url" id="pl_83">
+		<td>&nbsp;</td>
+		<td align="center">2</td>
+		<td align="center">23:37:16</td>
+		<td align="center">23:37:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 1: <a href="http://dereferrer.livezilla.info/?url=http://www.vysigorta.com/contact.php" target="_blank">http://www.vysigorta.com/contact.php</a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
